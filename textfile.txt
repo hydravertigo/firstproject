@@ -1,2 +1,6 @@
 This is a text file that should show up in github.
 
+This additional text should also now show up in github.
+
+This is possible because I've got a personal access token created.
+
