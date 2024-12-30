@@ -7,3 +7,7 @@ This is possible because I've got a personal access token created.
 This is another change that I'm doing from Visual Studio Code
 
 Second VSStudio change
+
+Another change
+
+And another
